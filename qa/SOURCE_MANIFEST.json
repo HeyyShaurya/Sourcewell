@@ -1,0 +1,135 @@
+{
+  "project": "Sourcewell Digital Procurement Experience",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 35,
+      "sha256": "6c11fab12b161431ed483a61deded89148db67f836360d81845bde0d8088c751"
+    },
+    {
+      "path": "AI_STUDIO_IMPORT_PROMPT.txt",
+      "bytes": 816,
+      "sha256": "789817b5fd2a69ae3946367f782eaf0b73406b8b5fb632552dd94eb7c6f7d476"
+    },
+    {
+      "path": "DEMO_SCRIPT_10_MINUTES.md",
+      "bytes": 13491,
+      "sha256": "e6485fbe9f748b749b0741967d2975a08afe27d35f43ecbb406a343db64ea327"
+    },
+    {
+      "path": "Dockerfile",
+      "bytes": 168,
+      "sha256": "29bd6f5c507f98bf2d65d030abbe8d0f445a311312603bea4e063d169f7a7468"
+    },
+    {
+      "path": "GOOGLE_AI_STUDIO_SETUP.md",
+      "bytes": 2053,
+      "sha256": "948a2cba25b64b7f4f224b10fe8159b9db03c6bbcf73bb1ab4033d05c8f0e62c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3175,
+      "sha256": "1bef4e7e48c8de260f648448d990704413d232701573bab441507392f66942b5"
+    },
+    {
+      "path": "app.js",
+      "bytes": 74442,
+      "sha256": "a2cb25726f18123c7996beb9d4bf40230af83cb13bce2a8c3c0dd5451e1679f1"
+    },
+    {
+      "path": "assets/sourcewell_rfp_logo.jpg",
+      "bytes": 14399,
+      "sha256": "151a8298af43d0fb808c81a182a4df24f1db02d72efc997d2cc3c0b38adfecc9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 712,
+      "sha256": "ed7b8497c5a86c69a6f01d69a18ada7a75de3176b0cf8da20cff19d214ec5519"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 160,
+      "sha256": "0e1e50a283b1a9e40ec22ffefa9f82cdcbf89d6ac5ce6dfb8f9cb36bdf02c354"
+    },
+    {
+      "path": "package.json",
+      "bytes": 390,
+      "sha256": "0b0e11bc1ee38df1eb8924c88476c0c2d394addf1134eb4339480ce78176d6c9"
+    },
+    {
+      "path": "qa/01_login.png",
+      "bytes": 390385,
+      "sha256": "05e0e17494020fff680658cef6fe574fe1ce5434bba8a29daa4a6ac3b75c284a"
+    },
+    {
+      "path": "qa/02_requester_dashboard.png",
+      "bytes": 241997,
+      "sha256": "de62236c5e1da15c066e160fc523daa9401fa490a245dcf593de53cc9951b92e"
+    },
+    {
+      "path": "qa/03_cart.png",
+      "bytes": 103648,
+      "sha256": "1a18bc8094ef67c156d7df16d65fd619df01f708a8c8fb90df553bdc8890798d"
+    },
+    {
+      "path": "qa/04_procurement_orders.png",
+      "bytes": 102712,
+      "sha256": "4714bf2149036aa6dac4280941e67d850ac27f0a258fccfd6efcacbafa62be62"
+    },
+    {
+      "path": "qa/05_receiving.png",
+      "bytes": 106408,
+      "sha256": "fbd4d91925b65b85a8c653917cb29b2fd8621a1a0fa31477c7771d9ee24b9b0d"
+    },
+    {
+      "path": "qa/06_finance.png",
+      "bytes": 107279,
+      "sha256": "bbfda22494a84cb6168fd112ec36cf0ac40585b104711385fc7fab4d8a736521"
+    },
+    {
+      "path": "qa/07_mobile_admin_report.png",
+      "bytes": 119469,
+      "sha256": "0bb765f296a4552b808fae202865dceb7424b8b814dcef09915336dfa9d7492a"
+    },
+    {
+      "path": "qa/QA_REPORT.md",
+      "bytes": 1972,
+      "sha256": "0688723ee03bb400d145ef6019fd59b96ebb17841bb32768ae88133dd1f4b691"
+    },
+    {
+      "path": "qa/browser_checks.txt",
+      "bytes": 1184,
+      "sha256": "5700e9faecd5bb680a2c78716cb6bb2cbbe0e4546a3ed4662aefe79929e16f96"
+    },
+    {
+      "path": "qa/results.json",
+      "bytes": 1518,
+      "sha256": "953074eb344bf90f58c61ed20247b6cd96f77aeb3aaae208e512a362d391ebc2"
+    },
+    {
+      "path": "qa/stress_results.json",
+      "bytes": 411,
+      "sha256": "e2d249d352eba95818d55c87094b42a6df1d83abc6e7b0cf55486accf257c6c0"
+    },
+    {
+      "path": "server.mjs",
+      "bytes": 1713,
+      "sha256": "3cc63983abde4c6eec57f0732a9f45ff08187d288ba1fe1d6c414d45ada91795"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 16288,
+      "sha256": "0167348a800557e24a8adbecaa8c2422365a7ae7aabfc4507fe6bc834c9b8fbe"
+    },
+    {
+      "path": "tests/test_demo_embedded.py",
+      "bytes": 14357,
+      "sha256": "cdabb89af1e3554e1b2558db17798e7f311eb8c272222a96fc15f1b30652424c"
+    },
+    {
+      "path": "tests/test_stress_embedded.py",
+      "bytes": 7350,
+      "sha256": "e59e9c365ee527ad12e5e7b8326987406a0aec2f613fd4b69e2e4dc1db26c155"
+    }
+  ]
+}

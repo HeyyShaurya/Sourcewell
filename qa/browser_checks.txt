@@ -1,0 +1,28 @@
+PASS Login screen and official seal
+PASS Distinct role login — requester
+PASS Requester navigation is restricted
+PASS Catalog displays four required categories
+PASS Catalog quantity action
+PASS Create requisition with live state
+PASS Requisition persists across app reload
+PASS Approver landing and inbox
+PASS Department approval reserves budget
+PASS Procurement dashboard and requisitions
+PASS Approved requisition converts into supplier PO
+PASS Supplier sees only own PO
+PASS Supplier acknowledgement and freight/tracking updates
+PASS Supplier invoice ties to new PO
+PASS Procurement goods receipt queue
+PASS Goods receipt posts against exact order
+PASS Finance landing and invoice workbench
+PASS Three-way match and simulated payment
+PASS Dynamic reports + export both CSVs
+PASS Admin page separation
+PASS Admin changes policy; approval escalates; procurement authorizes
+PASS Supplier submits new catalog SKU and procurement moderates
+PASS User / integration / tax / audit / JSON export controls
+   navigated 45 persona-scoped pages
+PASS All 45 persona-specific navigation views render without crash
+PASS Mobile dashboard no document overflow
+
+SUMMARY 25 checks passed; 0 errors

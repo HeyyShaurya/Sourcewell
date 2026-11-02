@@ -1,0 +1,13 @@
+{
+  "name": "sourcewell-digital-procurement-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sourcewell RFP 110426 interactive procurement demo - no cloud API keys required",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "check": "node --check server.mjs && node --check app.js"
+  },
+  "engines": { "node": ">=20" }
+}

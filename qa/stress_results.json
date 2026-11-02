@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "created_requests": 35,
+    "created_orders": 35,
+    "completed_payments": 15,
+    "rejected_mismatch": true,
+    "blocked_unauthorized": true,
+    "blocked_budget_excess": true,
+    "price_snapshot": true,
+    "html_escaped": true,
+    "unique_audit_events": 212,
+    "catalog_items": 13,
+    "registered_suppliers": 5,
+    "contracts": 2,
+    "invoice_count": 17
+  },
+  "js_errors": []
+}
